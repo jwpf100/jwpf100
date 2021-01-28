@@ -8,7 +8,7 @@ After spending the last 8 years working in leadership roles within E-Commerce I 
 - Looking to contribute to some interesting open source projects
 - Live in South London
 - Keen traveller (or at least I used to be 😷 ) - before Covid hit I had been travelling round South America for 8 months
-- Training for Ironman Copenhagen (Aug 2021 🤞)
+- 🏊 🚴‍♂️ 🏃🏻‍♂️  Training for Ironman Copenhagen (Aug 2021 🤞)
 
 If you want to know anything else, please get in touch!
 
