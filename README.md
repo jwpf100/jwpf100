@@ -1,14 +1,12 @@
 # Hi, I'm Joe Fletcher 👋
 
-After spending the last 8 years working in leadership roles within E-Commerce I decided that I actually wanted to **make** things.  That was March 2020, fast forward to now and after intensive study and hands-on experience creating custom apps and websites, I am using my unique skillset to help businesses achieve their goals. 
+After spending 8 years working in leadership roles within E-Commerce I decided that I actually wanted to **make** things.  That was March 2020, fast forward to now and after intensive study and hands-on experience creating custom apps and websites, I am using my unique skillset to help businesses achieve their goals as a Full Stack Developer. 
 
 *A bit more about me...*
 
-- I'm currently focussing on React, Redux and Javascript
+- Experienced in React, Javascript, Typescript and AWS
 - Looking to contribute to some interesting open source projects
 - Live in South London
-- Keen traveller (or at least I used to be 😷 ) - before Covid hit I had been travelling round South America for 8 months
-- 🏊 🚴‍♂️ 🏃🏻‍♂️  Training for Ironman Copenhagen (Aug 2022 🤞)
 
 If you want to know anything else, please get in touch!
 
